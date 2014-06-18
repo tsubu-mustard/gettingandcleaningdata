@@ -7,7 +7,7 @@ Here are the orginal data:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-You will get tidy data executing only following step.
+You will get a tidy data executing only following steps.
 
 1. Download and unzip the original data in R working directory.
 
