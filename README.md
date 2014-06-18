@@ -15,3 +15,5 @@ You will get a tidy data executing only following steps.
 
 3. You'll get "result_of_step5.txt" as output. 
 
+output data is the average of each signal variables for each activity and each subject. 
+
